@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+geocoder
+rtree
+twilio
+typing
+pydantic
+gradio
+requests
+tabulate
