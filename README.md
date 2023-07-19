@@ -12,6 +12,11 @@ This is a prototype which takes the input in form of latitude and longitude and 
 4. Use your twilio api keys.
 5. Run the program.
 
+## Flow Diagram
+
+![FlowChart](https://github.com/vivekkumar7089/Automatic-Accident-Detection/assets/60113444/9fc9064e-eb62-4bf6-8d0c-5491d5867a22)
+
+
 ## Proposed Followup
 
 - We would need a hardware which can be integrated in every vehicle which detects the accident and send the current location the backend server for the following process.
