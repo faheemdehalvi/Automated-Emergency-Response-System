@@ -31,4 +31,15 @@ This is a prototype which takes the input in form of latitude and longitude and 
 - The information regarding which hospital is covering the accident can also be sent to the police so that they can carry out the legal formalities.
 - A dashboard can be made which can tell the location of ambulance and the accident location for the police so that they can track it.
 - A system can also be made which informs the family or guardian or relative of the person about the accident.
+
+## Major Problems
+
+#### Integration with existing systems
+For your product to be effective, it will need to integrate with existing hospital and police station infrastructure. It will be a challenging task as different organizations may use different technologies and protocols.
+
+#### Communication and coordination
+Effective communication and coordination between police and hospitals are essential for a seamless response to accidents. Establishing clear lines of communication, defining roles and responsibilities, and addressing any potential conflicts or misunderstandings between these entities can be a challenging task.
+
+#### Adaptability 
+Adaptability can indeed be a significant challenge when selling an automatic accident detection system to hospitals. Hospitals are complex organizations with established processes and protocols for handling emergencies, and introducing a new system may encounter resistance or face certain barriers.
   
