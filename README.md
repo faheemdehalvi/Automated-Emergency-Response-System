@@ -10,11 +10,12 @@ This research paper highlights the development and testing of the automated emer
 
 ## Installation
 
-1. Download the zip file or git clone the repository.
-2. Unzip the hospital_data file.
-3. Install the requirements.
-4. Use your twilio api keys.
-5. Run the program.
+1. Download the zip file or clone the repository.
+2. Unzip the hospital_data file. It includes the dataset of all hospitals locations in India.
+3. Install all the requirements in your system.
+4. Update Twilio API Keys in config files with your API keys.
+5. Run the main.py file using ```univorn main:app --reload ```. This will run the backend FastAPI on localhost ```http://127.0.0.1:8000```.
+6. Run the go.py file using ```python go.py``` which starts a gradio interface to use the API on localhost ```http://127.0.0.1:7860```.
 
 ## Flow Diagram
 
