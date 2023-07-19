@@ -23,18 +23,15 @@ This research paper highlights the development and testing of the automated emer
 
 ## Proposed Followup
 
-- We would need a hardware which can be integrated in every vehicle which detects the accident and send the current location the backend server for the following process.
-- We can also make a trigger function which works as follows:
-    - If an accident occurs, it pops up a notification on the smartphone of the person.
-    - It will let choose the person to continue the followup process or to cancel it if it is not a major accident or a malfunction.
-    - It will also have a time limit so that if no response is provided, it automatically continues the followup process.
-- To make this a successful prototype, we would need to integrate the hospitals too in this.
-- We can make a different dashboard which will keep the information regarding the availability of emergency ward and available ambulances at a hospital.
-- We can then change the finding best hospital function to choose the hospital considering availability also.
-- We can implement the same system for the police stations so that the information regarding accident can be conveyed at the earliest.
-- The information regarding which hospital is covering the accident can also be sent to the police so that they can carry out the legal formalities.
-- A dashboard can be made which can tell the location of ambulance and the accident location for the police so that they can track it.
-- A system can also be made which informs the family or guardian or relative of the person about the accident.
+-Hardware integration in every vehicle to detect accidents and send location data to the backend server.
+-Trigger function on smartphones to notify the person about the accident and prompt them to continue or cancel the follow-up process.
+-Automatic continuation of follow-up process if no response is received within a specified time limit.
+-Integration of hospitals in the system with a separate dashboard displaying information on emergency ward availability and ambulances.
+-Modified algorithm to choose the best hospital based on both proximity and availability.
+-Extension of the system to include police stations for immediate accident information conveyance.
+-Sharing accident coverage information with the police to aid in legal formalities.
+-A dashboard providing real-time tracking of ambulance location and accident site for the police.
+-Implementation of a system to notify family, guardian, or relatives about the accident.
 
 ## Major Problems
 
