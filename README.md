@@ -1,8 +1,12 @@
-# Automatic-Accident-Detection
+# Automated Emergency Response System
 
-Due the more road accident takes place in various cities. Nowadays the cause of death increasing more by accident. If an accident met in a national highway roads no one 
-there to rescue the person to met with an accident this is due to lack of emergency facilities and rescue team to overcome these drawback we made a system which on occurence of an accident, takes the location of accident and find nearest hospitals, chooses the closest of them and sends them a message regarding the location of accident. It can used to protect the people from the risk as soon as possible after occurrence the accident wasting a time may leads to death. The location of the accident place will be detect by geocoder function.   
-This is a prototype which takes the input in form of latitude and longitude and finds the nearest location of hospital from the given dataset of hospitals. For the time being, as the contact number of hospitals are not given, we used a dummy number to get the message regarding the accident.
+Road accidents continue to pose a significant threat to public safety, resulting in an increasing number of fatalities in various cities. The lack of immediate emergency response facilities and rescue teams on national highways exacerbates the severity of such accidents. To address this critical issue and mitigate the risk to accident victims, we have developed an innovative automated emergency response system.
+
+The proposed system leverages geocoder technology to pinpoint the precise location of accidents by processing input in the form of latitude and longitude coordinates. It then utilizes a comprehensive dataset of nearby hospitals to identify the closest medical facilities. Upon determining the nearest hospital, the system initiates an immediate message transmission, notifying them of the accident location and crucial details.
+
+Through the integration of this system, we aim to expedite emergency medical assistance, significantly reducing the response time in accident scenarios. The automated nature of the system ensures that medical professionals can promptly reach the accident site, providing critical care and potentially saving lives. While the current prototype employs a dummy contact number due to data limitations, the ultimate objective is to collaborate with hospitals for real-time communication.
+
+This research paper highlights the development and testing of the automated emergency response system, evaluating its efficiency in improving road safety and minimizing accident-related fatalities. Furthermore, the paper discusses potential scalability and integration with existing emergency services infrastructure. Overall, this system holds promise in enhancing public safety on national highways and serves as a valuable contribution to the field of road accident management and emergency response technology.
 
 ## Installation
 
