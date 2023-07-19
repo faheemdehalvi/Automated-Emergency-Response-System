@@ -24,13 +24,21 @@ This research paper highlights the development and testing of the automated emer
 ## Proposed Followup
 
 -Hardware integration in every vehicle to detect accidents and send location data to the backend server.
+
 -Trigger function on smartphones to notify the person about the accident and prompt them to continue or cancel the follow-up process.
+
 -Automatic continuation of follow-up process if no response is received within a specified time limit.
+
 -Integration of hospitals in the system with a separate dashboard displaying information on emergency ward availability and ambulances.
+
 -Modified algorithm to choose the best hospital based on both proximity and availability.
+
 -Extension of the system to include police stations for immediate accident information conveyance.
+
 -Sharing accident coverage information with the police to aid in legal formalities.
+
 -A dashboard providing real-time tracking of ambulance location and accident site for the police.
+
 -Implementation of a system to notify family, guardian, or relatives about the accident.
 
 ## Major Problems
